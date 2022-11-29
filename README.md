@@ -13,6 +13,6 @@ Developers: Chuyi Shang, Leah Hong, Aaron Moore
 
 | Assignment  | NBgitpuller Link  |  
 |---|---|
-| Survival Analysis Notebook| [![UCBDatahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FECON-140-SP22&urlpath=tree%2FECON-140-SP22%2Fps0%2Fps0.ipynb&branch=main)  |  
+| Survival Analysis Notebook| [![UCBDatahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FECON-148&urlpath=tree%2FECON-148%2Fsurvival_analysis.ipynb&branch=master)  |  
 | SQL Notebook  |  [![UCBDatahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FECON-140-SP22&urlpath=tree%2FECON-140-SP22%2Fps1%2Fps1.ipynb&branch=main) |  
 | Zillow Pricing Notebook  |  [![UCBDatahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FECON-140-SP22&urlpath=tree%2FECON-140-SP22%2Fps2%2Fps2.ipynb&branch=main) |  
